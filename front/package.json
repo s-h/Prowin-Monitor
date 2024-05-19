@@ -1,0 +1,14 @@
+{
+  "name": "front",
+  "version": "1.0.0",
+  "description": "prometheus",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "jianghao",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^30.0.6"
+  }
+}
